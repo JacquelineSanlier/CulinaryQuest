@@ -1,0 +1,5 @@
+- Klassen Diagramm
+- Usecase Diagramm
+- Dayly Scrum
+- Kanbanboard Trello
+- 

@@ -1,0 +1,32 @@
+1. GUI 
+    Bewegen und Collision
+    Eventsteuerung: Abfrage der Tasten
+
+
+#2. Menues 
+    für Aktionen 
+    Bei Klick auf die Pflanze ansicht der Aktionen
+    Bei Klick auf den Shop , jeweile Aktionen
+
+3. Pflanzen
+    Wachen der Pflanzen
+    Wie das vorhgehen ist
+    zb: Startzeit, Zykluszeit, Anzal der Zyklen (=Bildern) 
+
+4. Character = Frosch
+
+5. Controlerklasse 
+    Steuerung der Keys
+    Aufbau der Grafik
+
+    Steuerung Tils
+
+6. Schittstellen
+    GUI- > Tochevent -> übergabe des TilesObjects, welches coordinaten hat.
+    Controlerklasse -> event -> Kontextmneu
+    GUI -> übergaben -> controllerclasse
+
+7. Methoden
+    controller.get_context_menu() -> holt sich aus der Menuclasse dein Inhalt des Menues und gibt es aus in der GUI 
+    controller.??
+
