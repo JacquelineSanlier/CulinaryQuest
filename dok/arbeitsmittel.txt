@@ -3,3 +3,4 @@
 - Dayly Scrum
 - Kanbanboard Trello
 - Programmsharing: Github 
+- Möglich: Visio oder Miro
